@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61e31735-27c5-4aa0-8bc1-2c509dfda36b" name="Default Changelist" comment="" />
+    <list default="true" id="61e31735-27c5-4aa0-8bc1-2c509dfda36b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/IdMonad.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PromiseMonad.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dereference.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate_sql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objCopy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spreadRest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uniqueSet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curry.js" beforeDir="false" afterPath="$PROJECT_DIR$/curry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date.js" beforeDir="false" afterPath="$PROJECT_DIR$/date.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/monad.js" beforeDir="false" afterPath="$PROJECT_DIR$/monad.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduce.js" beforeDir="false" afterPath="$PROJECT_DIR$/reduce.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,6 +25,20 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,8 +53,11 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1RFGDeXOiDxg15J3zfX9ekIngeJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.9.0" />
@@ -43,6 +75,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -56,29 +89,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.date.js">
-    <configuration name="curry.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/curry.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.IdMonad.js">
+    <configuration name="IdMonad.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/IdMonad.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="date.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/date.js" working-dir="$PROJECT_DIR$">
+    <configuration name="PromiseMonad.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PromiseMonad.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="identity.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/identity.js" working-dir="$PROJECT_DIR$">
+    <configuration name="dereference.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/dereference.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="monad.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/monad.js" working-dir="$PROJECT_DIR$">
+    <configuration name="reduce.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/reduce.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="reduxReducer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/reduxReducer.js" working-dir="$PROJECT_DIR$">
+    <configuration name="spreadRest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/spreadRest.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.date.js" />
-        <item itemvalue="Node.js.curry.js" />
-        <item itemvalue="Node.js.monad.js" />
-        <item itemvalue="Node.js.identity.js" />
-        <item itemvalue="Node.js.reduxReducer.js" />
+        <item itemvalue="Node.js.IdMonad.js" />
+        <item itemvalue="Node.js.spreadRest.js" />
+        <item itemvalue="Node.js.dereference.js" />
+        <item itemvalue="Node.js.PromiseMonad.js" />
+        <item itemvalue="Node.js.reduce.js" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +138,8 @@
       <workItem from="1569608512014" duration="729000" />
       <workItem from="1569950423872" duration="490000" />
       <workItem from="1569970269368" duration="1551000" />
-      <workItem from="1570040633368" duration="832000" />
+      <workItem from="1570040633368" duration="4218000" />
+      <workItem from="1570111841832" duration="14130000" />
     </task>
     <servers />
   </component>
@@ -117,7 +151,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -7,8 +7,14 @@ const curry =
         console.log(arr)
         return (...args) => {
             console.log(...args);
-            return (a => a.length === f.length ? f(...a) : curry(f, a))
-    ([...arr, ...args]) }}
+            return (
+                a =>
+                    a.length === f.length
+                        ? f(...a)
+                        : curry(f, a)
+            )([...arr, ...args])
+        }
+}
 
 const fadd = (a, b, c) =>  a + b + c;
 
